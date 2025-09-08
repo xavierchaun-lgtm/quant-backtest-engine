@@ -23,7 +23,6 @@ A modular and extensible backtesting engine for systematic trading strategies, w
 <pre>
 ## 📁 Project Structure
 
-```text
 QUANT BACKTEST ENGINE/
 ├── .venv/
 ├── data/
@@ -50,7 +49,7 @@ QUANT BACKTEST ENGINE/
 ├── run_default_batch.py
 ├── README.md
 └── requirements.txt
-```
+
 </pre>
 
 ## 🧠 Strategy Example
