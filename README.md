@@ -20,8 +20,10 @@ A modular and extensible backtesting engine for systematic trading strategies, w
 - ✅ Easy to extend with new strategies and cost models
 
 ---
+<pre>
+## 📁 Project Structure
 
-## 📂 Project Structure
+```text
 QUANT BACKTEST ENGINE/
 ├── .venv/
 ├── data/
@@ -48,6 +50,9 @@ QUANT BACKTEST ENGINE/
 ├── run_default_batch.py
 ├── README.md
 └── requirements.txt
+```
+</pre>
+
 ## 🧠 Strategy Example
 
 **Moving Average Cross Strategy**
