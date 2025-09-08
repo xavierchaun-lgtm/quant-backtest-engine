@@ -22,7 +22,10 @@ A modular and extensible backtesting engine for systematic trading strategies, w
 ---
 
 ## 📂 Project Structure
-‘’‘
+
+<details>
+<summary>点击展开项目结构树</summary>
+```text
 QUANT BACKTEST ENGINE/
 ├── .venv/                        # ✅ Virtual environment (should be excluded from GitHub)
 │                                # 虚拟环境文件夹（建议添加到 .gitignore，不上传）
@@ -73,7 +76,7 @@ QUANT BACKTEST ENGINE/
 │
 ├── requirements.txt             # ✅ Required Python dependencies
 │                                # 所需 Python 依赖列表
-’‘’
+</details>
 ## 🧠 Strategy Example
 
 **Moving Average Cross Strategy**
