@@ -106,14 +106,8 @@ Sample output:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ⸻
+## 👨‍💻 Author
 
-👨‍💻 Author
-
-Xiaochuan Li (Xavier Chuan)
-MSc Financial Engineering, University of Birmingham
-GitHub: @xavierchaun-lgtm
+**Xiaochuan Li**  
+GitHub: [@xavierchaun-lgtm](https://github.com/xavierchaun-lgtm)  
 Email: xiaochuanformal@gmail.com
-
-⸻
-
-⭐ If you like this project, consider giving it a star on GitHub!
